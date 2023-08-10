@@ -1,7 +1,7 @@
 .DS*
 bonus_files_*/
 *linux/
-mandatory_*/
+mandatory_files_*/
 checker
 maps/
 test.c
