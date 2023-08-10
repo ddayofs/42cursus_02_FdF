@@ -1,0 +1,11 @@
+.DS*
+bonus_files_*/
+*linux/
+mandatory_*/
+checker
+maps/
+test.c
+maps.zip
+minilibx*
+a.out
+
